@@ -1,0 +1,27 @@
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\bin\Debug\Fale.exe.config
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\bin\Debug\Fale.exe
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\bin\Debug\Fale.pdb
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\obj\Debug\Fale.csprojResolveAssemblyReference.cache
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\obj\Debug\Fale.Form1.resources
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\obj\Debug\Fale.Properties.Resources.resources
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\obj\Debug\Fale.csproj.GenerateResource.Cache
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\obj\Debug\Fale.exe
+c:\users\krzysztof piaskowy\documents\visual studio 2015\Projects\Fale\Fale\obj\Debug\Fale.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\bin\Debug\Fale.exe.config
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\obj\Debug\Fale.exe
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\obj\Debug\Fale.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\bin\Debug\Fale.exe
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\bin\Debug\Fale.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\obj\Debug\Fale.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\obj\Debug\Fale.Form1.resources
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\obj\Debug\Fale.Properties.Resources.resources
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\Fale\Fale\obj\Debug\Fale.csproj.GenerateResource.Cache
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\bin\Debug\fale.exe.config
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\bin\Debug\fale.exe
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\bin\Debug\fale.pdb
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\obj\Debug\Fale.csprojResolveAssemblyReference.cache
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\obj\Debug\Fale.Form1.resources
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\obj\Debug\fale.Properties.Resources.resources
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\obj\Debug\Fale.csproj.GenerateResource.Cache
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\obj\Debug\fale.exe
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\Interfereencja fal\Fale\obj\Debug\fale.pdb

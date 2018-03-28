@@ -1,0 +1,27 @@
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\update.csproj.GenerateResource.Cache
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\update.exe.config
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\update.exe
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\update.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\update.Properties.Resources.resources
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\update.exe
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\update.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\update.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\bin\Debug\update.exe.config
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\obj\Debug\update.exe
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\obj\Debug\update.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\bin\Debug\update.exe
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\bin\Debug\update.pdb
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\obj\Debug\update.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\obj\Debug\update.Properties.Resources.resources
+C:\Users\Krzysztof Piaskowy\Desktop\konkurs\update\WindowsFormsApplication1\obj\Debug\update.csproj.GenerateResource.Cache
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\obj\Debug\update.csprojResolveAssemblyReference.cache
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\obj\Debug\update.Properties.Resources.resources
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\obj\Debug\update.csproj.GenerateResource.Cache
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\obj\Debug\update.exe
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\obj\Debug\update.pdb
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\bin\Debug\update.exe.config
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\bin\Debug\update.exe
+C:\Users\mleko\Documents\projekty\fale\kody źródłowe\moduł aktualizacji\WindowsFormsApplication1\bin\Debug\update.pdb
